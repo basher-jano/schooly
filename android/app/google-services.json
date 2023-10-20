@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "952424482379",
+    "project_id": "schooly-b3ebc",
+    "storage_bucket": "schooly-b3ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952424482379:android:8b6db2cabe6573eaddafce",
+        "android_client_info": {
+          "package_name": "com.example.my_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952424482379-nl5eq952evuhjblt6n6hpkvrlkkhtva9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_school",
+            "certificate_hash": "175c00c65632a11596e347b5e750c37777e585f2"
+          }
+        },
+        {
+          "client_id": "952424482379-2596qa1i1hiqj3som3fvhmc1r470nhfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtpq1xlCJcxYFztuhGkxRzj6UgqNK8ewo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952424482379-2596qa1i1hiqj3som3fvhmc1r470nhfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
